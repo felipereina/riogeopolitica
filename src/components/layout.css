@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    --mainGrey: #f5f5f5;
+    --mainWhite: #fff;
+    --mainBlack: #3f3f3f;
+    --darkGrey: #8e8e8e;
+    --mainSpacing: 4px;
+    --mainTransition: all 0.3s linear;
+}
+
+body {
+    font: 'Quicksand', sans-serif;
+    background: var(--mainGrey);
+    color: var(--mainBlack);
+}
+
+.code {
+    background-color: #8e8e8e;
+    display: inline-block;
+    padding: 1rem;
+    font-size: 1.2rem;
+    color: var(--mainWhite);
+    margin: 2rem 0;
+}
+
+.counter {
+    color: green;
+    margin: 3rem 0;
+    text-transform: capitalize;
+}
+
+.post-image span {
+    display: block;
+    padding-bottom: 0!important;
+    margin: 2rem;
+}
+
+.post-image img {
+    display: block;
+    max-width: 100%;
+}
+
+.homeHero {
+    color: var(--mainWhite)
+}
+
+.btn-black, .btn-primary {
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: var(--mainSpacing);
+    color: var(--mainBlack);
+    border: 2px solid var(--mainBlack);
+    padding: 0.9rem 1.6rem;
+    display: inline-block;
+    transition: var(--mainTransition);
+    cursor: pointer;
+}
+
+.btn-black:hover {
+    background: var(--mainBlack);
+    color: var(--mainWhite);
+}
+
+.btn-white, .btn-primary {
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: var(--mainSpacing);
+    color: var(--mainWhite);
+    border: 2px solid var(--mainWhite);
+    padding: 0.9rem 1.6rem;
+    display: inline-block;
+    transition: var(--mainTransition);
+    cursor: pointer;
+    margin-bottom: 1rem
+}
+
+.btn-white:hover {
+    background: var(--mainWhite);
+    color: var(--primaryColor);
+}
+
+.btn-primary {
+    background: var(--mainGrey);
+    color: var(--mainBlack);
+    border: 2px solid var(--mainBlack);
+}
+
+.btn-primary:hover {
+    background: var(--mainBlack);
+    color: var(--mainWhite);
+}
+
+.defaultHero {
+    min-height: calc(20vh - 30px);
+    background: linear-gradient(rgba(63, 208, 212, 0.7), rgba(0, 0, 0, 0.7)), url("../images/rio.jpg") center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    color: var(--mainWhite)
+}

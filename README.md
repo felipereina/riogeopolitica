@@ -3,9 +3,8 @@
   Rio Geopolítica - Rio Geopolitics
 </h1>
 * Atenção: os dados referentes à dominação territorial por facção criminosa não são oficiais e estão em muitos casos desatualizados. Foram retirados de múltiplas fontes, como notícias e sites jornalísticos. 
-
-
-A aplicação pretende ser uma fonte de informação para analistas de segurança pública, geopolitólogos e para a população em geral, um espaço aberto onde os cidadãos do Rio de Janeiro possam colaborar com o compartilhamento de informações atualizadas e cobrar as instâncias públicas até que todo morador do Rio de Janeiro tenha o direito de viver em um espaço livre da violência.
+<br>
+Rio Geopolitica pretende ser uma fonte de informação para analistas de segurança pública, geopolitólogos e para a população em geral, um espaço aberto onde os cidadãos do Rio de Janeiro possam colaborar com o compartilhamento de informações atualizadas e cobrar as instâncias públicas até que todo morador do Rio de Janeiro tenha o direito de viver em um espaço livre da violência.
 
 A Geopolítica é uma disciplina de estudo normalmente aplicada às relações internacionais, embora muitas de suas ferramentas de análise possam ser aplicadas à análise intra-Estadual, o que convencionou-se chamar micro-geopolítica.
 

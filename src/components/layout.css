@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -14,7 +13,7 @@
 }
 
 body {
-    font: 'Ubuntu', sans-serif;
+    font: sans-serif;
     background: var(--mainGrey);
     color: var(--mainBlack);
 }
@@ -105,4 +104,10 @@ body {
 
 .h1 {
     color: var(--mainWhite)
+}
+.title {
+    font-family: sans-serif;
+}
+.subtitle {
+    font-family: sans-serif;
 }

@@ -5,7 +5,7 @@ const Title = ({ title, subtitle, className }) => {
     <div className={className}>
       <h4>
         <span className="title">{title}</span>
-        <span>{subtitle}</span>
+        <span className="subtitle">{subtitle}</span>
       </h4>
     </div>
   )

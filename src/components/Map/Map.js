@@ -214,6 +214,8 @@ class Map extends React.Component {
             return (
                 <>
                     <Title title="Favelas do Rio" subtitle="por Facção Criminosa" />
+                    <h4 style={{margin: "10px", fontFamily: "sans-serif", textAlign: "center"}}>Este site parte do desejo de ver o Estado do Rio de Janeiro retomando o controle territorial de sua geografia e libertando brasileiros do julgo das facções criminosas, das milícias e da violência</h4>
+                    <h5 style={{marginBottom: "10px", marginTop:"20px", color:"gray", fontFamily: "sans-serif"}}>*Contribua com informações nos comentários logo abaixo. Há muitos dados desatualizados e faltando. Compartilhe o que sabe sobre sua região</h5>
                     <div style={{ display: "flex", paddingBottom: "10px" }}>
                         <button style={{ padding: "10px", color: "white", backgroundColor: "black", fontWeight: "bold" }} onClick={() => this.click("All")}>Todas</button>
                         <button style={{ backgroundColor: "#d11c08", fontWeight: "bold" }} onClick={() => this.click("Comando Vermelho")}>Comando Vermelho</button>

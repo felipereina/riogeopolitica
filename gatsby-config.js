@@ -9,7 +9,7 @@ module.exports = {
       "Micro Geopolítica do Rio de Janeiro. A cidade e seus domínios territoriais. Facções criminosas por favelas. Esse site parte do desejo de ver o Estado do Rio de Janeiro retomando o controle territorial de sua geografia e libertando brasileiros do julgo das facções criminosas e da violência",
     author: "O_Reina, Felipe Reina",
     twitterUsername: "@O_Reina",
-    image:"/rio.jpg",
+    image:"/rio_geopolitica.png",
     siteUrl:"https://riogeopolitica.netlify.com"
   },
   plugins: [

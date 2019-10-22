@@ -16,8 +16,9 @@ export default styled(Title)`
   font-size: 2.3rem;
   margin-bottom: 2rem;
   h4 {
+    font-family: "Catamaran", "sans-serif";
     text-align: center;
-    letter-spacing: 7px;
+    letter-spacing: 3px;
     color: var(--primaryColor);
   }
   .title {

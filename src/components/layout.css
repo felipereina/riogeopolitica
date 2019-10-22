@@ -1,20 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran:400,500&display=swap");
+
 * {
     box-sizing: border-box;
     margin: 0;
 }
 
-:root {
+/* :root {
     --mainGrey: #ffffff;
     --mainWhite: #fff;
     --mainBlack: #3f3f3f;
     --darkGrey: #e7f0f0;
     --mainSpacing: 4px;
     --mainTransition: all 0.3s linear;
+} */
+
+:root {
+  --primaryColor: #2892d7;
+  --mainWhite: #fff;
+  --offWhite: #f7f7f7;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --darkGrey: #afafaf;
+  --mainTransition: all 0.3s linear;
+  --mainSpacing: 0.3rem;
+  --lightShadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.5);
+  --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
 }
 
 body {
-    font: sans-serif;
-    background: var(--mainGrey);
+    font-family: "Catamaran", sans-serif;
+    background: var(--offWhite);
     color: var(--mainBlack);
 }
 

@@ -11,6 +11,6 @@ A Geopolítica é uma disciplina de estudo normalmente aplicada às relações i
 
 A Geopolítica é o estudo diacrónico da política a partir de um ponto de vista geográfico nas suas relações com os ambientes físico e social, estudo esse orientado para as relações internacionais embora não omitindo questões relevantes da política interna, (as que sofrem variações importantes devido à distribuição territorial) dedicando especial atenção ao que se relaciona com a geração, a aquisição e o emprego do Poder, tentando definir constantes, tendências, limites e condicionamentos (Raúl François Martins, Geopolítica e Geoestratégia: Para que São e Para que Servem. Nação e Defesa, 78, p.36.)
 
-A aplicação utiliza dados oficiais da Prefeitura do Rio de Janeiro para a divisão territorial da cidade do Rio de Janeiro pelas áreas consideradas sub-urbanizadas, vulgo favelas. Foram retirados do site público Data Rio (https://http://www.data.rio).
+A aplicação utiliza dados oficiais da Prefeitura do Rio de Janeiro para a divisão territorial da cidade do Rio de Janeiro pelas áreas consideradas sub-urbanizadas, vulgo favelas. Foram retirados do site público Data Rio (https:www.data.rio).
 
 <!-- AUTO-GENERATED-CONTENT:END -->
